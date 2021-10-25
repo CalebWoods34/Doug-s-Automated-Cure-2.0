@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FDI Automated Cure
+</name>
+</assembly>
+<members>
+<member name="T:FDI_Automated_Cure.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FDI_Automated_Cure.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FDI_Automated_Cure.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:FDI_Automated_Cure.My.Resources.Resources.End_Logger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FDI_Automated_Cure.My.Resources.Resources.FDI_3D_Logo_3_icon_ico">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FDI_Automated_Cure.My.Resources.Resources.PlusMod">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FDI_Automated_Cure.My.Resources.Resources.Start_Logger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FDI_Automated_Cure.My.Resources.Resources.X">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
